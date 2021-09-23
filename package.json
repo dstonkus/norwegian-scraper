@@ -1,0 +1,18 @@
+{
+  "name": "norwegian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^17.0.0",
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.0",
+    "puppeteer-extra-plugin-stealth": "^2.8.0"
+  }
+}
