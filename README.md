@@ -1,6 +1,7 @@
 ## Info
 
 The code scraps the data from Norwegian Airlines from 2021-11-01 to 2021-11-30
+from OSL (Oslo) to FCO (Rome-Flumicino) , for OneWay direct flights
 
 ![](./NORWEGIAN_OBJ.png)
 
