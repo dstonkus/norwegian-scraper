@@ -10,7 +10,7 @@ const args = {
 
 const url = `https://www.norwegian.com/api/fare-calendar/calendar?adultCount=1&destinationAirportCode=${args.arrivalAirport}&originAirportCode=${args.departureAirport}&outboundDate=2021-11-01&tripType=1&currencyCode=EUR&languageCode=en-GB&pageId=258774&eventType=user`;
 
-//////////
+///////
 puppeteer.launch({ headless: true }).then(async (browser) => {
   console.log('Running scraper..');
   const page = await browser.newPage();
