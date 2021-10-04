@@ -5,15 +5,13 @@ from OSL (Oslo) to FCO (Rome-Flumicino) , for OneWay direct flights
 
 ![](./NORWEGIAN_OBJ.png)
 
-Do you have ideas how request count could be reduced?
-
-- I think by injecting js function for getting the taxes instead of page loads
 
 ## Dependencies
 
 - puppeteer
 - puppeteer-extra
 - puppeteer-extra-plugin-stealth
+- nodemon
 
 ### Installation
 
